@@ -1,0 +1,12 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/logs/
+/.idea/
+.checkstyle
+/bin/
+web.iml
+/data/
+/web.iml
+*.iml
